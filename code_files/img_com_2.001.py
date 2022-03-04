@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 11:31:02 2018
-
-@author: champion
-"""
 
 import tensorflow as tf
 TF_CPP_MIN_LOG_LEVEL=2
