@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 14:47:56 2018
-
-@author: champion
-"""
-
 #importing the necessary modules and importing the dataset from MNIST
 
 import tensorflow as tf
