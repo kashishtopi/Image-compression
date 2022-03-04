@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 20 13:12:26 2018
-
-@author: champion
-"""
-
-"""
 THis is standalone script which is used to enocde the input images which we would provide.
 This scripts uses the session that we have trained using MNIST dataset and tries to encode the image
 
