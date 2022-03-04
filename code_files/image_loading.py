@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 20 14:54:37 2018
-
-@author: champion
-"""
-
 import cv2
 import numpy as np
 
