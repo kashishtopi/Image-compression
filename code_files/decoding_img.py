@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 20 14:22:55 2018
-
-@author: champion
-"""
-
-"""
 This is the standalone script which decodes the image,of dimmension 1x128. 
 This script produces the reconstucted image of dimmension 28x28 
 
